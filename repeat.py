@@ -1,0 +1,5 @@
+a=str(input("enter the element:"))
+print (a)
+b=int(input("enter the number:"))
+print(b)
+print(a*b)
